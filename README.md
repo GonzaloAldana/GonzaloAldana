@@ -5,7 +5,7 @@ I'm Gonzalo. You can mostly find me on [LinkedIn](https://www.linkedin.com/in/go
 I also sometimes write things on [my own website](https://gonzaloaldana.com).
 
 - 📱 I’ve been the lead mobile dev in 2 startups, at this time my teams have published +5 apps, both built from scratch and refactored and updated legacy systems.
-- 🌟 My top freelance project is "Taxi App", you can find the readme in my GitHub
+- 🌟 My top freelance project is "Taxi App", you can find the readme in my pinned projects in GitHub
 - 💬 I help spread Flutter, I have given talks, workshops and mobile development classes.
 - ❤️ Have I said I love Flutter?
 - 🌱 I’m currently improving on Sequelize, Postgres, Docker... when I have time!
